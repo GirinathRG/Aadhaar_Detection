@@ -4,7 +4,7 @@ Overview:
 This repository contains code for Aadhaar detection using Python using Deep Learning. The primary files in this project are:
 
 - aadhaar_detection.py: Python script for Aadhaar detection.
-- requirements.inpy: Input file specifying the dependencies for running the code.
+- requirements.ipynb: Input file specifying the dependencies for running the code.
 
 Getting Started:
 Prerequisites:
