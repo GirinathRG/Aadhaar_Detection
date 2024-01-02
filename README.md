@@ -8,7 +8,7 @@ This repository contains code for Aadhaar detection using Python using Deep Lear
 
 Getting Started:
 Prerequisites:
-Make sure you have installed. You can install them using the following command:
+Make sure you have installed. numpy, tensorflow, opencv, matplotlib, sklearn. You can install them using the following command:
 
 pip install -r requirements.inpynb
 
