@@ -1,23 +1,23 @@
 Aadhaar Detection Code
 
 Overview:
-This repository contains code for Aadhaar detection using [replace_with_technology_used]. The primary files in this project are:
+This repository contains code for Aadhaar detection using Python using Deep Learning. The primary files in this project are:
 
 - aadhaar_detection.py: Python script for Aadhaar detection.
 - requirements.inpy: Input file specifying the dependencies for running the code.
 
 Getting Started:
 Prerequisites:
-Make sure you have [replace_with_dependencies] installed. You can install them using the following command:
+Make sure you have installed. You can install them using the following command:
 
-pip install -r requirements.inpy
+pip install -r requirements.inpynb
 
 Usage:
 Run the Aadhaar detection script with the following command:
 
 python aadhaar_detection.py
 
-Replace [replace_with_specific_command] with any specific command users need to run your code.
+Replace with any specific command users need to run your code.
 
 Code Details:
 Explain the key components and functionality of your Aadhaar detection code. Provide a brief overview of the algorithm, techniques, or technologies used.
@@ -32,10 +32,10 @@ Contributing:
 If you'd like to contribute to this project, please follow the CONTRIBUTING.md guidelines.
 
 License:
-This project is licensed under the [replace_with_license_name] License - see the LICENSE file for details.
+This project is licensed under the License - see the LICENSE file for details.
 
 Acknowledgments:
 Mention any external libraries, tools, or resources that your code relies on or is inspired by.
 
 Contact:
-For any questions or feedback, feel free to reach out to [Your Name] via [email@example.com].
+For any questions or feedback, feel free to reach out to R.Girinath via girinathr@simplfin.tech.
